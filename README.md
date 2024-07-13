@@ -7,10 +7,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThanhHai21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThanhHai21&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhHai21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ThanhHai21&limit=5&theme=dark&combine_all_yearly_contributions=true)
