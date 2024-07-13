@@ -7,6 +7,7 @@
 
 # 📊 GitHub Stats:
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 ![](https://github-readme-stats.vercel.app/api?username=ThanhHai21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThanhHai21&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhHai21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
